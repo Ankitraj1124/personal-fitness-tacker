@@ -1,4 +1,4 @@
-# personal-fitness-tacker
+# Personal-Fitness-Tracker
 # 🏋️‍♂️ Personal Fitness Tracker
 
 **Personal Fitness Tracker** is a web application that helps users monitor and predict the number of calories burned based on key physical and health indicators. The app also provides a comparison feature to analyze different users' fitness goals and progress.
